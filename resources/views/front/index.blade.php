@@ -1,4 +1,7 @@
 @extends('front-layouts.body')
+@section('header')
+<link rel="stylesheet" type="text/css" href="{{ asset('front/assets/css/custom.css')}}">
+@endsection
 @section('content')
 
 {{-- Testimonial Starts--}}
@@ -75,18 +78,5 @@ As an independent college consultant firm, Command Education offers the guidance
 </div>
 </section>
 {{-- Why us Ends--}}
-
-
-
-<style>
-    .consult-bg
-    {
-        background: #153039;
-        color: aliceblue;
-        font: 18px !important;
-    }
-    .bg-auto{
-       background: #153039;  
-    }
-</style>
+ 
 @endsection
