@@ -82,10 +82,5 @@
     </div>
     </div>
     </div>
-    
-    </footer>
-    <style>
-        .btn-default{
-            color: white !important;
-        }
-    </style>
+   </footer>
+  

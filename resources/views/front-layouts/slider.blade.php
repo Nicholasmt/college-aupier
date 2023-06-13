@@ -8,11 +8,9 @@
     <p>From the Ivy League to Stanford, MIT and many more... <br>
        Crimson helps students reach their ultimate college admissions goals.
     </p>
-     
     <div class="mt-5">
-      <button class="btn btn-common" type="button"> SPEAK WITH AN ADVISOR</button>
+    <button class="btn btn-common" type="button"> SPEAK WITH AN ADVISOR</button>
     </div>
-    
     </div>
     </div>
     </div>

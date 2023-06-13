@@ -7,15 +7,30 @@
 {{-- Testimonial Starts--}}
 <section class="testimonial section-padding">
 <h3 class="section-title">Testimonials</h3>
- 
 <div id="main-slide" class="carousel slide bg-auto" data-ride="carousel">
 <div class="carousel-inner">
+    
 <div class="carousel-item active">
 <div class="text-center">
-<h1 class="animated wow fadeInDown hero-heading" data-wow-delay=".4s">Welcome to The Largest Marketplace</h1>
-<p class="animated fadeInUp wow hero-sub-heading" data-wow-delay=".6s">Buy and sell everything from used cars to mobile phones and computers, or search for property, jobs and more</p>
-<h4 class="text-white"> Josh Rossi </h4>
- 
+<h1 class="animated wow fadeInDown hero-heading" data-wow-delay=".4s">OVER 10+ OUT OF MANY</h1>
+<p class="animated fadeInUp wow hero-sub-heading" data-wow-delay=".6s">
+  of our students where accepted to one or more of their top three schools
+ </p>
+ <p class="animated fadeInUp wow hero-sub-heading">
+   At Command Education, we strive to spark curiosity and genuine enthusiasm  towards <br> a constructive passion that will form the critical building block of our students’ futures.
+ </p>
+<a href="#" class="btn btn-common mt-3">Learn More</a>
+</div>
+</div>
+
+<div class="carousel-item">
+<div class="text-center">
+{{-- <h1 class="" data-wow-delay=".4s">Welcome to The Largest Marketplace</h1> --}}
+<p class="sub-hero" data-wow-delay=".6s"> 
+   “THANK YOU!!! THANK YOU!!!! THANK YOU!!!! I am so thrilled to have been accepted to all  of my  <br> reach schools. Thank you for your expertise and knowledge in helping me craft the perfect essay. <br> I can’t begin to appreciate how grateful I am for your help.”
+    Daniel K., Harvard College
+</p>
+<h5 class="text-white mt-3 font-italic"> Josh Rossi</h5>
 </div>
 </div>
  
@@ -37,12 +52,12 @@
 {{-- Testimonial Ends--}}
 
 {{-- Why us Start--}}
-<section class="section-padding">
+<section class="section-paddin">
 <div class="containe">
 <div class="row">
 <div class="col-lg-5 col-md-5 col-xs-12 consult-bg card-body">
 <h3 class="text-center text-white">Why US</h3>
-<p class="text-center mt-4">
+<p class="text-center font-18 mt-4">
 The road to college begins way before senior year. Students who have a dream school in mind need to carefully plan their extracurriculars, classes, and leadership opportunities as early as middle school to make sure they are poised for their desired outcome. Choosing the right college consultant is every family’s most important decision.
 As an independent college consultant firm, Command Education offers the guidance students need and the peace of mind that parents seek. <br>
 ✓ For Middle School <br>

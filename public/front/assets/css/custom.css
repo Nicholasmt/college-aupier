@@ -5,5 +5,18 @@
     font: 18px !important;
 }
 .bg-auto{
-   background: #153039;  
+   background: #153039;
+   padding:10%;  
+}
+.btn-default{
+    color: white !important;
+}
+.sub-hero{
+    font-size: 18px;
+    font-weight: 400;
+    color: aliceblue;
+}
+.font-18{
+    font-size: 18px;
+    line-height: 40px;
 }
