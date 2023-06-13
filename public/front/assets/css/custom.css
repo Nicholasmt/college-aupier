@@ -20,3 +20,6 @@
     font-size: 18px;
     line-height: 40px;
 }
+.card_body{
+    padding: 45px;
+}
