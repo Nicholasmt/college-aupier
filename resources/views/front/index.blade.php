@@ -4,9 +4,86 @@
 @endsection
 @section('content')
 
+{{-- Services starts --}}
+<section id="blog" class="section-padding">
+<div class="container">
+<h3 class="section-title">COLLEGE CONSULTING SERVICES</h3>   
+<p class="text-center font-18">Our unique service packages provide intensive support on every element of a student’s college application – from selection strategies, project planning, and test preparation to personal goal-setting, mentoring, and interview practice – all the tools for success.</p>
+<div class="row mt-5">
+<div class="col-lg-6 col-md-6 col-xs-12 blog-item">
+<div class="blog-item-wrapper">
+<div class="blog-item-img">
+<a href="#"><img src="{{ asset('front/assets/img/blog/img-1.jpg')}}" alt=""></a>
+</div>
+<div class="card mb-3 text-center">
+<h3>Premier Roadmap Package®</h3>
+<p class="services-sub-header mb-3">9th, 10th, and 11th Grade</p>
+<p class="services-content">Our year-round, personalized package guides high school freshmen to juniors in extracurricular development, testing timeline, community service, internship/research opportunities, and everything in between to help students stand out from their peers,</p>
+</div>
+<div class="text-center services_button">
+<a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
+</div>
+</div>
+</div>
+
+<div class="col-lg-6 col-md-6 col-xs-12 blog-item">
+<div class="blog-item-wrapper">
+<div class="blog-item-img">
+<a href="#"><img src="{{ asset('front/assets/img/blog/img-1.jpg')}}" alt=""></a>
+</div>
+<div class="card mb-3 text-center">
+<h3>Premier Roadmap Package®</h3>
+<p class="services-sub-header mb-3">12th Grade</p>
+<p class="services-content">Through our customized approach, high school seniors develop a balanced list of schools, strong compelling college essays, a resume, and activities list. We strategize with students to find the best-fit school for their academic and personal success.</p>
+</div>
+<div class="text-center services_button">
+<a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
+</div>
+</div>
+</div>
+
+
+<div class="col-lg-6 col-md-6 col-xs-12 blog-item">
+<div class="blog-item-wrapper">
+<div class="blog-item-img">
+<a href="#"><img src="{{ asset('front/assets/img/blog/img-1.jpg')}}" alt=""></a>
+</div>
+<div class="card mb-3 text-center">
+<h3>Tutoring & Test Prep</h3>
+{{-- <p class="services-sub-header mb-3">12th Grade</p> --}}
+<p class="services-content">SAT and ACT scores are an integral part of the college admissions process. Even though schools may be “test optional,” top schools want to see high scores from competitive applicants. Our team of experienced tutors will help your child achieve remarkable results.</p>
+</div>
+<div class="text-center services_button">
+<a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
+</div>
+</div>
+</div>
+
+
+<div class="col-lg-6 col-md-6 col-xs-12 blog-item">
+<div class="blog-item-wrapper">
+<div class="blog-item-img">
+<a href="#"><img src="{{ asset('front/assets/img/blog/img-1.jpg')}}" alt=""></a>
+</div>
+<div class="card mb-3 text-center">
+<h3>2023 College Application Booster®</h3>
+{{-- <p class="services-sub-header mb-3">2023 College Application Booster®</p> --}}
+<p class="services-content">Our College Application Booster is a 5-day camp held online in August to support students in completing their Personal Statement on the Common Application along with school-specific supplemental essays.</p>
+</div>
+<div class="text-center services_button">
+<a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+{{-- Sevices ends --}}
+
 {{-- Testimonial Starts--}}
 <section class="testimonial section-padding">
-<h3 class="section-title">Testimonials</h3>
+<h3 class="section-title">TESTIMONIALS</h3>
 <div id="main-slide" class="carousel slide bg-auto" data-ride="carousel">
 <div class="carousel-inner">
     
@@ -157,5 +234,6 @@ As an independent college consultant firm, Command Education offers the guidance
 </div>
 </section>
 {{-- Why us Ends--}}
+
  
 @endsection
