@@ -19,7 +19,7 @@
 <p class="services-sub-header mb-3">9th, 10th, and 11th Grade</p>
 <p class="services-content">Our year-round, personalized package guides high school freshmen to juniors in extracurricular development, testing timeline, community service, internship/research opportunities, and everything in between to help students stand out from their peers,</p>
 </div>
-<div class="text-center services_button">
+<div class="text-center services_button mb-4">
 <a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
 </div>
 </div>
@@ -87,11 +87,11 @@
     
 <div class="carousel-item active">
 <div class="text-center">
-<h1 class="animated wow fadeInDown hero-heading" data-wow-delay=".4s">OVER 10+ OUT OF MANY</h1>
-<p class="animated fadeInUp wow hero-sub-heading" data-wow-delay=".6s">
-  of our students where accepted to one or more of their top three schools
+<h1 class="animated wow fadeInDown hero-heading base-color" data-wow-delay=".4s">OVER 10+ OUT OF MANY</h1>
+<p class="animated fadeInUp wow hero-sub-heading base-color text-uppercase font-bold" data-wow-delay=".6s">
+  Of our students where accepted to one or more of their top three schools
  </p>
- <p class="animated fadeInUp wow hero-sub-heading">
+ <p class="font-18 mt-2 text-white">
    At Command Education, we strive to spark curiosity and genuine enthusiasm  towards <br> a constructive passion that will form the critical building block of our students’ futures.
  </p>
 <a href="#" class="btn btn-common btn-lg mt-3">Learn More</a>

@@ -1,11 +1,10 @@
-<footer class="mt-5">
+<footer class="">
  <section class="footer-Content">
     <div class="container">
     <div class="row">
     <div class="col-lg-3 col-md-3 col-xs-6 col-mb-12">
     <div class="widget">
-    <div class="footer-logo"><img src="assets/img/logo.png" alt=""> <h3 class="text-color">Sample</h3> </div>
-    
+    <div class="footer-logo"><img src="assets/img/logo.png" alt=""> <h3 class="text-color">Education</h3> </div>
     <ul class="mt-3 footer-social">
     <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
     <li><a class="twitter" href="#"><i class="lni-twitter-filled"></i></a></li>
