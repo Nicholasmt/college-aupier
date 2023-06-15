@@ -1,4 +1,4 @@
-<footer class="">
+<footer class="text-center">
  <section class="footer-Content">
     <div class="container">
     <div class="row">
@@ -72,8 +72,8 @@
     <div class="row">
     <div class="col-md-12">
     <div class="site-info text-center">
-    <p>All results will vary by individual and be affected by factors outside the control of Command Group Inc. dba Command Education. Command Group Inc. and this website make no representation, promise, or guarantee that any particular result or outcome can or will be obtained. Command Group Inc. is not associated with the College Board, Common Application, or any college/university or any of its affiliates. Prior results do not guarantee a similar outcome.
-        © Copyright 2015-2023 Command Group Inc. All rights reserved. Terms and Conditions.</p>
+    <p>All results will vary by individual and be affected by factors outside the control of Eductaion Inc. dba Command Education. Eductaion Inc. and this website make no representation, promise, or guarantee that any particular result or outcome can or will be obtained. Eductaion Inc. is not associated with the College Board, Common Application, or any college/university or any of its affiliates. Prior results do not guarantee a similar outcome.</p>
+    <p class="mt-3 font-bold"> © Copyright {{date('Y')}} Eductaion Inc. All rights reserved. <a href="#" class="text-white">Terms and Conditions.</a></p>
     </div>
     </div>
     </div>
