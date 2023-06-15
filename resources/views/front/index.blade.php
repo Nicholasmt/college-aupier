@@ -3,15 +3,14 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('front/assets/css/custom.css')}}">
 @endsection
 @section('content')
-
 {{-- Services starts --}}
 <section id="blog" class="section-padding">
 <div class="container">
-<h3 class="section-title">COLLEGE CONSULTING SERVICES</h3>   
+<h3 class="section-title_custom">COLLEGE CONSULTING SERVICES</h3>   
 <p class="text-center font-18">Our unique service packages provide intensive support on every element of a student’s college application – from selection strategies, project planning, and test preparation to personal goal-setting, mentoring, and interview practice – all the tools for success.</p>
 <div class="row mt-5">
 <div class="col-lg-6 col-md-6 col-xs-12 blog-item">
-<div class="blog-item-wrapper">
+<div class="blog-item-wrappe">
 <div class="blog-item-img">
 <a href="#"><img src="{{ asset('front/assets/img/services/img-1.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
@@ -27,7 +26,7 @@
 </div>
 
 <div class="col-lg-6 col-md-6 col-xs-12 blog-item">
-<div class="blog-item-wrapper">
+<div class="blog-item-wrappe">
 <div class="blog-item-img">
 <a href="#"><img src="{{ asset('front/assets/img/services/img-2.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
@@ -42,9 +41,8 @@
 </div>
 </div>
 
-
 <div class="col-lg-6 col-md-6 col-xs-12 blog-item">
-<div class="blog-item-wrapper">
+<div class="blog-item-wrappe mt-5">
 <div class="blog-item-img">
 <a href="#"><img src="{{ asset('front/assets/img/services/img-3.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
@@ -61,12 +59,12 @@
 
 
 <div class="col-lg-6 col-md-6 col-xs-12 blog-item">
-<div class="blog-item-wrapper">
+<div class="blog-item-wrappe mt-5">
 <div class="blog-item-img">
 <a href="#"><img src="{{ asset('front/assets/img/services/img-4.jpeg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
 <div class="card mb-3 text-center">
-<h3>2023 College Application Booster®</h3>
+<h4>2023 College Application Booster®</h4>
 {{-- <p class="services-sub-header mb-3">2023 College Application Booster®</p> --}}
 <p class="services-content">Our College Application Booster is a 5-day camp held online in August to support students in completing their Personal Statement on the Common Application along with school-specific supplemental essays.</p>
 </div>
@@ -96,7 +94,7 @@
  <p class="animated fadeInUp wow hero-sub-heading">
    At Command Education, we strive to spark curiosity and genuine enthusiasm  towards <br> a constructive passion that will form the critical building block of our students’ futures.
  </p>
-<a href="#" class="btn btn-common mt-3">Learn More</a>
+<a href="#" class="btn btn-common btn-lg mt-3">Learn More</a>
 </div>
 </div>
 
@@ -128,22 +126,25 @@
 {{-- Testimonial Ends--}}
 
 {{-- Why us Start--}}
-<section class="section-paddin">
+<section class="section-padding">
 <div class="containe">
 <div class="row">
 <div class="col-lg-5 col-md-5 col-xs-12 consult-bg card_body">
 <h3 class="text-center text-white">Why US</h3>
-<p class="text-center font-18 mt-4">
+<p class="text-title mt-4"></p>
+<p class="text-center font-18 mt-5">
 The road to college begins way before senior year. Students who have a dream school in mind need to carefully plan their extracurriculars, classes, and leadership opportunities as early as middle school to make sure they are poised for their desired outcome. Choosing the right college consultant is every family’s most important decision.
 As an independent college consultant firm, Command Education offers the guidance students need and the peace of mind that parents seek. <br>
-✓ For Middle School <br>
-✓ For Freshmen <br>
-✓ For Sophomores <br>
-✓ For Juniors <br>
-✓ For Seniors <br>
 </p>
+<div class="text-center mt-5">
+<p class="base-color font-18 mt-2"> ✓ <span class="text-white">For Middle School</span></p>
+<p class="base-color font-18 mt-2"> ✓ <span class="text-white">For Freshmen</span> </p>
+<p class="base-color font-18 mt-2"> ✓ <span class="text-white">For Sophomores</span></p>  
+<p class="base-color font-18 mt-2"> ✓ <span class="text-white">For Juniors</span></p>  
+<p class="base-color font-18 mt-2"> ✓ <span class="text-white">For Seniors</span></p>  
+</div>
 </div>  
-<div class="col-lg-7 col-md-7 col-xs-12">
+<div class="col-lg-7 col-md-7 col-xs-12 form-bg">
 <div class="bg-light">
 <h3 class="section-title">BOOK A CONSULTATION</h3>
 <div class="col-lg-12 col-md-12 col-xs-12">
@@ -222,7 +223,7 @@ As an independent college consultant firm, Command Education offers the guidance
 </div> 
 <div class="form-group mt-5">
 <input type="checkbox" name="terms_of_service">
-<label for="terms_of_service" class="ml-3">I agree to the terms and conditions and privacy policy</label>
+<label for="terms_of_service" class="ml-2">I agree to the <a href="" class="text-color">terms and conditions</a> and  <a href="" class="text-color">privacy policy</a></label>
 </div>
 <div class="form-group">
  <button type="submit" class="btn btn-common">Submit</button>
