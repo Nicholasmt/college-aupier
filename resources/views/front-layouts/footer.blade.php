@@ -56,7 +56,7 @@
     <strong class="text-color"><i class="lni-phone"></i></strong><span class="text-color">+1 555 444 66647 <br> +1 555 444 66647</span>
     </li>
     <li>
-    <strong class="text-color"><i class="lni-envelope"></i></strong><span class="text-color"> contact@mail.com <br> support@mail.com </span>
+    <strong class="text-color"><i class="lni-envelope"></i></strong><span class="text-color"> aupier@mail.com <br> aupier.support@mail.com </span>
     </li>
     <li>
     <strong class="text-color"><i class="lni-map-marker"></i></strong><span class=""><a href="#" class="text-color">9870 St Vincent Place, Glasgow, DC 45  </a></span>
@@ -72,8 +72,8 @@
     <div class="row">
     <div class="col-md-12">
     <div class="site-info text-center">
-    <p>All results will vary by individual and be affected by factors outside the control of Eductaion Inc. dba Command Education. Eductaion Inc. and this website make no representation, promise, or guarantee that any particular result or outcome can or will be obtained. Eductaion Inc. is not associated with the College Board, Common Application, or any college/university or any of its affiliates. Prior results do not guarantee a similar outcome.</p>
-    <p class="mt-3 font-bold"> © Copyright {{date('Y')}} Eductaion Inc. All rights reserved. <a href="#" class="text-white">Terms and Conditions.</a></p>
+    <p>All results will vary by individual and be affected by factors outside the control of AU PIER. and this website make no representation, promise, or guarantee that any particular result or outcome can or will be obtained. AU PIER is not associated with the College Board, Common Application, or any college/university or any of its affiliates. Prior results do not guarantee a similar outcome.</p>
+    <p class="mt-3 font-bold"> © Copyright {{date('Y')}} AU PIER All rights reserved. <a href="#" class="text-white">Terms and Conditions.</a></p>
     </div>
     </div>
     </div>

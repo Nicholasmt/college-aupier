@@ -4,8 +4,21 @@
     color: aliceblue;
     font: 18px !important;
 }
+.text-header-bg{
+    background: #153039 !important;
+   color:#e91e63 !important;
+}
+.header2{
+    background: rgb(237, 75, 83);
+    padding: 100px 0px 15px;
+  
+}
+
 .base-color{
-    color: #e91e63;
+    color:#e91e63 !important;
+}
+.second-color{
+    color:#153039 !important;
 }
 .text-color{
     color: #153039 !important;
@@ -28,8 +41,14 @@
     color: aliceblue;
 }
 .font-18{
-    font-size: 18px;
+    font-size: 18px !important;
     line-height: 40px;
+}
+.font-20{
+    font-size: 20px !important;  
+}
+.font-22{
+    font-size: 22px !important;  
 }
 .card_body{
     padding: 45px;
@@ -100,19 +119,29 @@
 
 @media (max-width: 564.98px){
     .section-title_custom {
-        font-size: 15px !important;
-       }
-       .hero-area-title{
-        font-size: 25px !important;
-       }
-       .hero-area-sub-title{
-        font-size: 15px !important;
-        font-weight: 400 !important;
-       }
-       .section-bg{
-        top: 20px;
-        text-align: center;
-       }
+    font-size: 15px !important;
+    }
+    .hero-area-title{
+    font-size: 25px !important;
+    }
+    .hero-area-sub-title{
+    font-size: 15px !important;
+    font-weight: 400 !important;
+    }
+    .section-bg{
+    top: 20px;
+    text-align: center;
+    }
+    .text-header-bg{
+     width: 400px;
+     /* margin-left: 17%; */
+     margin-top: -20%;
+     font-size: 40px !important;
+    }
+    .second-header-sub-title{
+        font-weight: 500 !important;
+        font-size: 22px !important;
+    }
  }
 @media (min-width: 565px) and (max-width: 767.98px) { 
     .section-title_custom {
@@ -129,9 +158,28 @@
         top: 20px;
         text-align: center;
        }
+       .text-header-bg{
+        width: 400px;
+        /* margin-left: 17%; */
+        margin-top: -20%;
+        font-size: 40px !important;
+       }
+       .second-header-sub-title{
+        font-weight: 500 !important;
+        font-size: 22px !important;
+    }
 }
 @media (min-width: 768px) and (max-width: 991.98px) { 
-
+    .text-header-bg{
+        width: 400px;
+        /* margin-left: 17%; */
+        margin-top: -20%;
+        font-size: 40px !important;
+       }
+       .second-header-sub-title{
+        font-weight: 500 !important;
+        font-size: 22px !important;
+    }
 
 }
 @media (min-width: 992px) and (max-width: 1199.98px) { 
@@ -139,10 +187,20 @@
 
 }
 @media (min-width: 1200px) {
-    .section-title_custom {
-      font-size: 30px;
-     }
-     .hero-area-sub-title{
-        font-weight: 400 !important;
-       }
+.section-title_custom {
+font-size: 35px;
+}
+.hero-area-sub-title{
+font-weight: 400 !important;
+}
+.text-header-bg{
+width: 80%;
+/* margin-left: 10%; */
+margin-top: -9%;
+font-size: 80px !important;
+}
+.second-header-sub-title{
+    font-weight: 600 !important;
+    font-size: 27px !important;
+}
 }

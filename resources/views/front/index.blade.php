@@ -130,7 +130,7 @@
 <div class="">
 <div class="row">
 <div class="col-lg-5 col-md-5 col-xs-12 consult-bg card_body">
-<h3 class="text-center text-white">Why US</h3>
+<h3 class="text-center text-white">Why AU PIER</h3>
 <p class="text-title mt-4"></p>
 <div class="container">
 <p class="text-center font-18 mt-5">
