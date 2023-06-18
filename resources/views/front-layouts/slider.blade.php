@@ -6,7 +6,7 @@
 <div class="container">
 <div class="col-md-12 col-lg-12 col-xs-12">
 <div class="justify-content-center">
-<div class="contents mt-3">
+<div class="contents">
 <div class="row">
 <div class="col-md-12 col-lg-7 col-xs-12">
  
@@ -31,7 +31,7 @@
 <div class="container">
 <div class="col-md-12 col-lg-12 col-xs-12 ">
 <div class="justify-content-center">
-<div class="contents mt-3">
+<div class="contents">
 <div class="row">
 <div class="col-md-12 col-lg-8 col-xs-12">
 
@@ -56,11 +56,11 @@
 <div class="col-md-12 col-lg-12 col-xs-12">
 <div class="justify-content-center">
 <div class="contents">
-<h1 class="head-title text-center text-header-bg">We've done it again</h1>
+<h1 class="head-title text-center second-header-bg">We've done it again</h1>
 <div class="row">
 <div class="col-md-12 col-lg-8 col-xs-12">
-<p class="second-header-sub-title">Another record breaking year with students earning muliple acceptance to all the Ivy League schools and top colleges!</p>
-<p class="mt-3 btn btn-primary">Our students received muliple acceptance to:</p>
+<p class="second-header-sub-title">Another record breaking year with students earning multiple acceptance to all the Ivy League schools and top colleges!</p>
+<p class="mt-3 btn btn-secondary second-header-text">Our students received multiple acceptance to:</p>
 <p class="font-18 mt-2">Harvard, Yale, Princeton , University of Pneesylvania,Dartomounth, Columbia, Brown,Cornell, Univeristiy of Chicago,johns Hopkins, USC and many more</p>
 </div>
 <div class="col-md-12 col-lg-4 col-xs-12 ">
@@ -76,9 +76,9 @@
 
 <div class="carousel-item">
 <div class="container">
-<div class="col-md-12 col-lg-8 col-xs-12 ">
-<div class="row justify-content-center text-left">
-<div class="contents mt-3">
+<div class="col-md-12 col-lg-8 col-xs-12">
+<div class="justify-content-center text-left">
+<div class="contents">
 <h1 class="head-title hero-area-title">Gain Admissions To Your Top College Choices</h1>
 <p class="hero-area-sub-title">AU PIER is the America's leading college admissions consultancy helping students gain admission to the Ivy League, Stanford, MIT, Duke, UC Berkeley, UCLA and other top colleges at a rate that is 4.5x higher than the general applicant rate.
 </p>

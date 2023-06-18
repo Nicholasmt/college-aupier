@@ -98,7 +98,6 @@
 </div>
 <div class="carousel-item">
 <div class="text-center">
-{{-- <h1 class="" data-wow-delay=".4s">Welcome to The Largest Marketplace</h1> --}}
 <div class="container">
 <p class="sub-hero" data-wow-delay=".6s"> 
     “THANK YOU!!! THANK YOU!!!! THANK YOU!!!! I am so thrilled to have been accepted to all  of my reach schools. Thank you for your expertise and knowledge in helping me craft the perfect essay. I can’t begin to appreciate how grateful I am for your help.”
@@ -108,16 +107,15 @@
 <h5 class="text-white mt-3 font-italic"> Josh Rossi</h5>
 </div>
 </div>
- 
 </div>
-<a class="carousel-control-prev" href="#main-slide" role="button" data-slide="prev">
+{{-- <a class="carousel-control-prev" href="#main-slide" role="button" data-slide="prev">
 <span class="carousel-control" aria-hidden="true"><i class="lni-chevron-left" data-ripple-color="#F0F0F0"></i></span>
 <span class="sr-only">Previous</span>
 </a>
 <a class="carousel-control-next" href="#main-slide" role="button" data-slide="next">
 <span class="carousel-control" aria-hidden="true"><i class="lni-chevron-right" data-ripple-color="#F0F0F0"></i></span>
 <span class="sr-only">Next</span>
-</a>
+</a> --}}
 </div>
 </section>
 
