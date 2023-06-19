@@ -9,7 +9,9 @@
 <div class="contents">
 <div class="row">
 <div class="col-md-12 col-lg-7 col-xs-12">
- 
+<div class="col-md-12 col-lg-9 col-xs-12 vector_slider">
+<img src="{{ asset('front/assets/img/featured/img-2.png')}}"   alt="">
+</div>
 </div>
 <div class="col-md-12 col-lg-5 col-xs-12 text-center">
 <h1 class="head-title hero-area-title">What is your Action Plan?</h1>
@@ -33,10 +35,12 @@
 <div class="justify-content-center">
 <div class="contents">
 <div class="row">
-<div class="col-md-12 col-lg-8 col-xs-12">
-
+<div class="col-md-12 col-lg-7 col-xs-12">
+<div class="col-md-12 col-lg-9 col-xs-12 vector_slider2">
+<img src="{{ asset('front/assets/img/featured/img-3.png')}}"  alt="">
 </div>
-<div class="col-md-12 col-lg-4 col-xs-12 text-center">
+</div>
+<div class="col-md-12 col-lg-5 col-xs-12 text-center">
  <p class="font-22">Your success is our success.If ask any our senior mentors, They'll tell you their favorite part of our work is receiving these texts.
 </p>
 <div class="mt-4">
@@ -76,14 +80,24 @@
 
 <div class="carousel-item">
 <div class="container">
-<div class="col-md-12 col-lg-8 col-xs-12">
+<div class="col-md-12 col-lg-12 col-xs-12">
 <div class="justify-content-center text-left">
 <div class="contents">
+<div class="row">
+<div class="col-md-12 col-lg-8 col-xs-12">
 <h1 class="head-title hero-area-title">Gain Admissions To Your Top College Choices</h1>
 <p class="hero-area-sub-title">AU PIER is the America's leading college admissions consultancy helping students gain admission to the Ivy League, Stanford, MIT, Duke, UC Berkeley, UCLA and other top colleges at a rate that is 4.5x higher than the general applicant rate.
 </p>
 <div class="mt-4">
 <button class="btn btn-common" type="button"> START YOUR JOURNEY TODAY</button>
+</div> 
+</div>
+<div class="col-md-12 col-lg-4 col-xs-12">
+<div class="">
+<img src="{{ asset('front/assets/img/featured/img-1.png')}}" alt="">
+</div>
+
+</div>
 </div>
 </div>
 </div>
@@ -103,7 +117,4 @@
 </div>
 </div>
 
-{{-- <div id="hero-area">
-<div class="overlay"></div>
-
-</div> --}}
+ 
