@@ -1,12 +1,12 @@
 .consult-bg
 { 
-    background: #153039;
+    background: #252525;
     color: aliceblue;
     font: 18px !important;
 }
 .second-header-bg{
-    background: #e91e63 !important;
-   color:#153039 !important;
+    background: #0a0a0a !important;
+   color:#8099c1 !important;
 }
 .header2{
     background: #607392;
@@ -14,7 +14,7 @@
  }
 
 .base-color{
-    color:#e91e63 !important;
+    color:#8099c1 !important;
 }
 .second-color{
     color:#153039 !important;
@@ -23,12 +23,12 @@
     color: #153039 !important;
 }
 .section-bg{
-  background: #153039 !important;
+  background: #616977 !important;
   padding: 10px; 
   color: white !important;
 }
 .bg-auto{
-   background: #153039;
+   background: #252525;
    padding:10%;  
 }
 .btn-default{
@@ -78,7 +78,7 @@
     width: 70px;
     margin-left: 43%;
     bottom: 40px;
-    background-color: #e91e63;
+    background-color: #8099c1;
  }
 .section-title_custom::before{
     height: 3px;
@@ -86,7 +86,7 @@
     width: 70px;
     margin-left: -90px;
     bottom: 40px;
-    background-color: #e91e63;
+    background-color: #8099c1;
  }
  .section-title_custom:after {
     position: absolute;
@@ -95,7 +95,7 @@
     width: 250px;
     margin-left: 20px;
     bottom: 40px;
-    background-color: #e91e63;
+    background-color: #8099c1;
 }
  .section-title_custom:before {
     position: absolute;
@@ -104,7 +104,7 @@
     width: 250px;
     margin-left: -270px;
     bottom: 40px;
-    background-color: #e91e63;
+    background-color: #8099c1;
 }
 .section-title_custom {
     /* font-size: 30px; */
@@ -138,11 +138,11 @@
      margin-top: -20%;
      font-size: 30px !important;
     }
-    .second-header-sub-title{
-        font-weight: 500 !important;
-        font-size: 20px !important;
-    }
-    .second-header-text{
+    .s-header-sub-title{
+       font-size: 30px !important;
+       color: #f6f6f6 !important;
+     }
+    .t-header-title{
       font-size: 14px !important;
     }
     .section-margin{
@@ -227,9 +227,17 @@
     .top-nav{
         margin-left: -9%;
         }
+        .second-header-bg{
+            width: 70%;
+            margin-top: -4%;
+            font-size: 60px !important;
+            }
         .logo-margin{
-            margin-left: -0%;
+            margin-left: -35%;
         }
+        .nav-margin{
+            margin-left: -14%;
+         }
 
 }
 @media (min-width: 1200px) {
@@ -241,7 +249,6 @@ font-weight: 400 !important;
 }
 .second-header-bg{
 width: 80%;
-/* margin-left: 10%; */
 margin-top: -9%;
 font-size: 80px !important;
 }

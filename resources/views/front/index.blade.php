@@ -15,9 +15,9 @@
 <a href="#"><img src="{{ asset('front/assets/img/services/img-1.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
 <div class="card mb-3 text-center">
-<h3>Premier Roadmap Package®</h3>
+<h3>Portfolio Building</h3>
 <p class="services-sub-header mb-3">9th, 10th, and 11th Grade</p>
-<p class="services-content">Our year-round, personalized package guides high school freshmen to juniors in extracurricular development, testing timeline, community service, internship/research opportunities, and everything in between to help students stand out from their peers,</p>
+<p class="services-content">We offer a year long customized package that aids Year 9 to Year 11 students in extracurricular development, exam timelines, community service, internship/research, opportunities, and every other thing to ensure students stand out.</p>
 </div>
 <div class="text-center services_button mb-4">
 <a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
@@ -31,9 +31,9 @@
 <a href="#"><img src="{{ asset('front/assets/img/services/img-2.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
 <div class="card mb-3 text-center">
-<h3>Premier Roadmap Package®</h3>
-<p class="services-sub-header mb-3">12th Grade</p>
-<p class="services-content">Through our customized approach, high school seniors develop a balanced list of schools, strong compelling college essays, a resume, and activities list. We strategize with students to find the best-fit school for their academic and personal success.</p>
+<h3>College Application</h3>
+<p class="services-sub-header mb-5">12th Grade</p>
+<p class="services-content mb-3">Through our unique approach, students build a bullet proof college list, a solid resume, work on their extracurricular activities list and develop compelling essays.</p>
 </div>
 <div class="text-center services_button">
 <a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
@@ -47,9 +47,8 @@
 <a href="#"><img src="{{ asset('front/assets/img/services/img-3.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
 <div class="card mb-3 text-center">
-<h3>Tutoring & Test Prep</h3>
-{{-- <p class="services-sub-header mb-3">12th Grade</p> --}}
-<p class="services-content">SAT and ACT scores are an integral part of the college admissions process. Even though schools may be “test optional,” top schools want to see high scores from competitive applicants. Our team of experienced tutors will help your child achieve remarkable results.</p>
+<h3 class="mb-4">Tutoring & Test Prep</h3>
+<p class="services-content mb-4">Beyond our expert SAT/ACT admissions exam test prep, we offer in person and virtual specific tutoring for our students to help them achieve outstanding results through our team of experienced tutors.</p>
 </div>
 <div class="text-center services_button">
 <a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
@@ -64,9 +63,9 @@
 <a href="#"><img src="{{ asset('front/assets/img/services/img-4.jpeg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
 <div class="card mb-3 text-center">
-<h4>2023 College Application Booster®</h4>
+<h4>College Drop Off/ Monitoring</h4>
 {{-- <p class="services-sub-header mb-3">2023 College Application Booster®</p> --}}
-<p class="services-content">Our College Application Booster is a 5-day camp held online in August to support students in completing their Personal Statement on the Common Application along with school-specific supplemental essays.</p>
+<p class="services-content">Our experienced mentors are former international students who critically understand the system of academics abroad. This experience gives them the added advantage of being the perfect people to assist you in dropping your child off to college and monitoring your child academically. Giving you constant updates on the well-being of your child..</p>
 </div>
 <div class="text-center services_button">
 <a href="#" class="btn btn-common btn-lg text-capitalize">Learn More</a>
@@ -128,13 +127,14 @@
 <div class="">
 <div class="row">
 <div class="col-lg-5 col-md-5 col-xs-12 consult-bg card_body">
-<h3 class="text-center text-white">Why AU PIER</h3>
+<h3 class="text-center text-white">Why College Au Pier</h3>
 <p class="text-title mt-4"></p>
 <div class="container">
 <p class="text-center font-18 mt-5">
-The road to college begins way before senior year. Students who have a dream school in mind need to carefully plan their extracurriculars, classes, and leadership opportunities as early as middle school to make sure they are poised for their desired outcome. Choosing the right college consultant is every family’s most important decision.
-As an independent college consultant firm, Command Education offers the guidance students need and the peace of mind that parents seek. <br>
-</p>
+  Did you know that the black student enrollment for most of the Ivy League universities ranges between 7-8%? This is inclusive of all those that identify as black Americans, Blacks and Africans. 
+  We are driven by the belief that we can increase African representation at Top Universities globally. 
+  College Au Pier is an independent education consulting firm focused on assisting college-bound students to plan and realize their dreams. We are constantly evolving to fulfil many crucial unmet educational needs in an ever-changing educational environment.  
+  We are committed to using our skills and experience to make a difference .</p>
 </div>
 <div class="text-center mt-5">
 <p class="base-color font-18 mt-2"> ✓ <span class="text-white">For Middle School</span></p>

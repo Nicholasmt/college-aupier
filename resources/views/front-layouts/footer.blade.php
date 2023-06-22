@@ -4,13 +4,15 @@
     <div class="row">
     <div class="col-lg-3 col-md-3 col-xs-6 col-mb-12">
     <div class="widget">
-    <div class="footer-logo"><img src="assets/img/logo.png" alt=""> <h3 class="text-color">Education</h3> </div>
+    <div class="footer-logo"><img src="assets/img/logo.png" alt=""> <h4 class="text-color">College Au Pier</h4> </div>
     <ul class="mt-3 footer-social">
     <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
-    <li><a class="twitter" href="#"><i class="lni-twitter-filled"></i></a></li>
-    <li><a class="linkedin" href="#"><i class="lni-linkedin-fill"></i></a></li>
-    <li><a class="google-plus" href="#"><i class="lni-instagram"></i></a></li>
-    
+    <li><a class="twitter" href="http://www.twitter.com/college_aupier"><i class="lni-twitter-filled"></i></a></li>
+    <li><a class="linkedin" href="https://www.linkedin.com/company/college-au-pier/"><i class="lni-linkedin-fill"></i></a></li>
+    <li><a class="instagram" href="https://instagram.com/collegeaupier.consulting?igshid=OGQ5ZDc2ODk2ZA=="><i class="lni-instagram"></i></a></li>
+    <li><a class="tiktok" href="www.tiktok.com/@collegeaupier.consulting"><i class="lni-tiktok"></i></a></li>
+    {{-- <li><a class="youtube" href="https://instagram.com/collegeaupier.consulting?igshid=OGQ5ZDc2ODk2ZA=="><i class="lni-instagram"></i></a></li> --}}
+
     </ul>
     <div class="textwidget mt-4">
     <div class="subscribe">
@@ -54,13 +56,13 @@
     <h3 class="block-title text-color">CONTACT</h3>
     <ul class="contact-footer">
     <li>
-    <strong class="text-color"><i class="lni-phone"></i></strong><span class="text-color">+1 555 444 66647 <br> +1 555 444 66647</span>
+    <strong class="text-color"><i class="lni-phone"></i></strong><span class="text-color"> +2348135732627</span>
     </li>
     <li>
     <strong class="text-color"><i class="lni-envelope"></i></strong><span class="text-color"> collegeaupier@gmail.com <br> ogochukwu@collegeaupier.com </span>
     </li>
     <li>
-    <strong class="text-color"><i class="lni-map-marker"></i></strong><span class=""><a href="#" class="text-color">9870 St Vincent Place, Glasgow, DC 45  </a></span>
+    <strong class="text-color"><i class="lni-map-marker"></i></strong><span class=""><a href="#" class="text-color"> 16b Alh Hussein Sunmonu Street. Lekki Phase 1. Lagos  </a></span>
     </li>
     </ul>
     </div>

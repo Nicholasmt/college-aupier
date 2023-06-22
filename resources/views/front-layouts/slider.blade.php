@@ -61,13 +61,13 @@
 <div class="justify-content-center">
 <div class="contents">
 <h1 class="head-title text-center second-header-bg">We've done it again</h1>
-<div class="row">
+<div class="ro">
 <div class="col-md-12 col-lg-8 col-xs-12">
-<p class="second-header-sub-title">Another record breaking year with students earning multiple acceptance to all the Ivy League schools and top colleges!</p>
-<p class="mt-3 btn btn-secondary second-header-text">Our students received multiple acceptance to:</p>
+<p class="s-header-sub-title">Another record breaking year with students earning multiple acceptance to all the Ivy League schools and top colleges!</p>
+<p class="mt-3 btn btn-secondary t-header-title">Our students received multiple acceptance to:</p>
 <p class="font-18 mt-2">Harvard, Yale, Princeton , University of Pneesylvania,Dartomounth, Columbia, Brown,Cornell, Univeristiy of Chicago,johns Hopkins, USC and many more</p>
 </div>
-<div class="col-md-12 col-lg-4 col-xs-12 ">
+<div class="col-md-12 col-lg-4 col-xs-12">
  
  
 </div>
