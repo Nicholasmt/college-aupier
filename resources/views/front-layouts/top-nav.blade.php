@@ -108,10 +108,10 @@
 <h3 class="font-20 text-white">CONGRATULATIONS TO OUR CLASS OF 2027!</h3>
 <div class="row">
 <div class="col-md-12 col-lg-10 col-xs-12">
-<p class="text-white"> 709 IVY LEAGUE OFFERS AND COUNTING! Congratulations to our amazing Class of 2027 who have shattered records in 2023 with offers from all 8 Ivies, Stanford, MIT, Duke, UChicago, Johns Hopkins, UCLA, UC Berkeley, and many, many more! Click below to learn more!</p>
+<p class="text-white">Congratulations to our amazing Class of 2027 who have shattered records in 2023 with offers from all over the world!</p>
 </div>
 <div class="col-md-12 col-lg-2 col-xs-12">
-<a href="#" class="btn btn-light">READ MORE</a>
+{{-- <a href="#" class="btn btn-light">READ MORE</a> --}}
 </div>
 </div>
 </div>
