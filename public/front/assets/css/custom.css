@@ -10,7 +10,7 @@
 }
 .header2{
     background: rgb(237, 75, 83);
-    padding: 100px 0px 15px;
+    padding: 120px 0px 15px;
  }
 
 .base-color{
@@ -154,6 +154,10 @@
       .vector_slider2{
         margin-top: -28%;
       }
+      .logo-margin{
+        margin-top: -16%;
+        height: 50%;
+      }
  }
 @media (min-width: 565px) and (max-width: 767.98px) { 
     .section-title_custom {
@@ -209,7 +213,12 @@
       }
 }
 @media (min-width: 992px) and (max-width: 1199.98px) { 
-
+    .top-nav{
+        margin-left: -9%;
+        }
+        .logo-margin{
+            margin-left: -40%;
+        }
 
 }
 @media (min-width: 1200px) {
@@ -231,6 +240,13 @@ font-size: 80px !important;
 }
 .vector_slider{
     margin-top: -18%;
-     
- }
+  }
+   .logo-margin{
+     margin-left: -43%;
+    }
+   .top-nav{
+     margin-left: -9%;
+     width: 20% !important;
+     height: 20% !important;
+   }
 }

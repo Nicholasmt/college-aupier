@@ -9,7 +9,8 @@
     <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
     <li><a class="twitter" href="#"><i class="lni-twitter-filled"></i></a></li>
     <li><a class="linkedin" href="#"><i class="lni-linkedin-fill"></i></a></li>
-    <li><a class="google-plus" href="#"><i class="lni-google-plus"></i></a></li>
+    <li><a class="google-plus" href="#"><i class="lni-instagram"></i></a></li>
+    
     </ul>
     <div class="textwidget mt-4">
     <div class="subscribe">
@@ -56,7 +57,7 @@
     <strong class="text-color"><i class="lni-phone"></i></strong><span class="text-color">+1 555 444 66647 <br> +1 555 444 66647</span>
     </li>
     <li>
-    <strong class="text-color"><i class="lni-envelope"></i></strong><span class="text-color"> aupier@mail.com <br> aupier.support@mail.com </span>
+    <strong class="text-color"><i class="lni-envelope"></i></strong><span class="text-color"> collegeaupier@gmail.com <br> ogochukwu@collegeaupier.com </span>
     </li>
     <li>
     <strong class="text-color"><i class="lni-map-marker"></i></strong><span class=""><a href="#" class="text-color">9870 St Vincent Place, Glasgow, DC 45  </a></span>

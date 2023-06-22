@@ -7,13 +7,14 @@
     <span class="lni-menu"></span>
     <span class="lni-menu"></span>
     </button>
-    <h4 class="navbar-brand mr-5">AU PIER</h4>
-    {{-- <a href="#" class="navbar-brand logo-margin"><img src="{{ asset('front/assets/img/logo.svg')}}"  alt="logo"  ></a> --}}
+    {{-- <h4 class="navbar-brand mr-5">AU PIER</h4> --}}
+    <a href="#" class="navbar-brand logo-margin">
+      <img src="{{ asset('front/assets/img/logo.png')}}"  alt="logo">
+    </a>
     </div>
-    <div class="collapse navbar-collapse" id="main-navbar">
+    <div class="collapse navbar-collapse top-nav" id="main-navbar">
     <ul class="navbar-nav mr-auto w-100 justify-content">
-
-    <li class="nav-item dropdown ml-"> 
+    <li class="nav-item dropdown"> 
     <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Our Sevices <span class="lni-chevron-down"></span></a>
     <div class="dropdown-menu">
     <a class="dropdown-item" href="#">list 1</a>
@@ -43,10 +44,10 @@
     <a class="nav-link " href="#">Our Blog </a>
     </li>
    <li class="nav-item">
-     <p class="nav-link lni-phone"> +1 555 444 66647 </p>
+     <p class="nav-link lni-phone"> +2348135732627</p>
     </li>
     <li class="nav-item">
-      <p class="nav-link text-lowercase lni-envelope"> aupier@mail.com </p>
+      <p class="nav-link text-lowercase lni-envelope"> collegeaupier@gmail.com</p>
     </li>
     
   
@@ -92,8 +93,8 @@
     </ul>
     </li>
     <li><a href="#">OUR LOG </a></li> 
-    <li><a href="#" class="lni-phone"> +1 555 444 66647 </a></li> 
-    <li><a href="#" class="lni-envelope mt-2"> aupier@mail.com</a></li> 
+    <li><a href="#" class="lni-phone"> +2348135732627 </a></li> 
+    <li><a href="#" class="lni-envelope mt-2"> collegeaupier@gmail.com <br> ogochukwu@collegeaupier.com </a></li> 
     </ul>
     </li>
     <div class="mt-3 mb-3">

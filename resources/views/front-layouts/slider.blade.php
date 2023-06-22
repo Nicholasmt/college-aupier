@@ -84,7 +84,7 @@
 <div class="justify-content-center text-left">
 <div class="contents">
 <div class="row">
-<div class="col-md-12 col-lg-8 col-xs-12">
+<div class="col-md-12 col-lg-8 col-xs-12 vector_slider2 mb-3">
 <h1 class="head-title hero-area-title">Gain Admissions To Your Top College Choices</h1>
 <p class="hero-area-sub-title">AU PIER is the America's leading college admissions consultancy helping students gain admission to the Ivy League, Stanford, MIT, Duke, UC Berkeley, UCLA and other top colleges at a rate that is 4.5x higher than the general applicant rate.
 </p>
