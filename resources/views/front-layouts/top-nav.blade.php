@@ -12,7 +12,7 @@
       <img src="{{ asset('front/assets/img/logo.png')}}"  alt="logo">
     </a>
     </div>
-    <div class="collapse navbar-collapse top-nav" id="main-navbar">
+    <div class="collapse navbar-collapse nav-margin" id="main-navbar">
     <ul class="navbar-nav mr-auto w-100 justify-content">
     <li class="nav-item dropdown"> 
     <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Our Sevices <span class="lni-chevron-down"></span></a>

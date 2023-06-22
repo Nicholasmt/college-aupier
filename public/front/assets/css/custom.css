@@ -155,9 +155,12 @@
         margin-top: -28%;
       }
       .logo-margin{
-        margin-top: -16%;
-        height: 50%;
-      }
+        margin-top: -0%;
+       }
+       .logo-margin{
+        margin-left: -5%;
+        margin-top: -3%;
+    }
  }
 @media (min-width: 565px) and (max-width: 767.98px) { 
     .section-title_custom {
@@ -193,6 +196,10 @@
      .vector_slider2{
         margin-top: -28%;
       }
+      .logo-margin{
+        margin-left: -5%;
+        margin-top: -2%;
+    }
 }
 @media (min-width: 768px) and (max-width: 991.98px) { 
     .second-header-bg{
@@ -211,13 +218,17 @@
      .vector_slider2{
         margin-top: -28%;
       }
+      .logo-margin{
+        margin-left: -5%;
+        margin-top: -1.7%;
+    }
 }
 @media (min-width: 992px) and (max-width: 1199.98px) { 
     .top-nav{
         margin-left: -9%;
         }
         .logo-margin{
-            margin-left: -40%;
+            margin-left: -0%;
         }
 
 }
@@ -242,11 +253,9 @@ font-size: 80px !important;
     margin-top: -18%;
   }
    .logo-margin{
-     margin-left: -43%;
-    }
-   .top-nav{
-     margin-left: -9%;
-     width: 20% !important;
-     height: 20% !important;
-   }
+     margin-left: -45%;
+ }
+ .nav-margin{
+    margin-left: -14%;
+ }
 }
