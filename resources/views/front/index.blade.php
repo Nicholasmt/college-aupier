@@ -261,5 +261,82 @@ Since my daughter started working with Ogochukwu, her whole midset has evolved, 
 </section>
 {{-- Why us Ends--}}
 
+
+{{-- companies slider --}}
+<section class="counter-section section-padding">
+<div id="main-slide" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div class="text-center">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 work-counter-widget">
+<div class="counter">
+ <img src="{{ asset('front/assets/img/companies/img-2.png')}}" alt=""> <br>
+ {{-- <h5 class="text-white">College Au pier</h5> --}}
+</div>
+</div>
+<div class="col-md-3 col-sm-6 work-counter-widget">
+<div class="counter">
+<img src="{{ asset('front/assets/img/companies/img-1.png')}}" alt=""> <br>
+{{-- <h5 class="text-white">College Au pier</h5> --}}
+</div>
+</div>
+<div class="col-md-3 col-sm-6 work-counter-widget">
+<div class="counter">
+<img src="{{ asset('front/assets/img/companies/img-5.png')}}" alt=""> <br>
+{{-- <h5 class="text-white">College Au pier</h5> --}}
+</div>
+</div>
+<div class="col-md-3 col-sm-6 work-counter-widget">
+<div class="counter">
+<img src="{{ asset('front/assets/img/companies/img-6.png')}}" alt=""> <br>
+{{-- <h5 class="text-white">College Au pier</h5> --}}
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="carousel-item">
+<div class="text-center">
+<div class="container">
+<div class="row"> 
+<div class="col-md-3 col-sm-6 work-counter-widget">
+<div class="counter">
+<img src="{{ asset('front/assets/img/companies/img-1.png')}}" alt=""> <br>
+{{-- <h5 class="text-white">College Au pier</h5> --}}
+</div>
+</div>
+<div class="col-md-3 col-sm-6 work-counter-widget">
+<div class="counter">
+<img src="{{ asset('front/assets/img/companies/img-4.png')}}" alt=""> <br>
+{{-- <h5 class="text-white">College Au pier</h5> --}}
+</div>
+</div>
+<div class="col-md-3 col-sm-6 work-counter-widget">
+<div class="counter">
+<img src="{{ asset('front/assets/img/companies/img-6.png')}}" alt=""> <br>
+{{-- <h5 class="text-white">College Au pier</h5> --}}
+</div>
+</div>
+<div class="col-md-3 col-sm-6 work-counter-widget">
+<div class="counter">
+<img src="{{ asset('front/assets/img/companies/img-3.png')}}" alt=""> <br>
+{{-- <h5 class="text-white">College Au pier</h5> --}}
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+ 
+
+</div>
+</div>
+
+</section>
+{{-- companies slider Ends --}}
  
 @endsection

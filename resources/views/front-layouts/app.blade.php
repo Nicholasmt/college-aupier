@@ -16,7 +16,7 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('front/assets/css/owl.carousel.css')}}">
 <link rel="stylesheet" type="text/css" href="{{ asset('front/assets/css/main.css')}}">
 <link rel="stylesheet" type="text/css" href="{{ asset('front/assets/css/responsive.css')}}">
-<link rel="icon" href="#" type="image/x-icon">
+<link rel="icon" href="{{ asset('front/assets/img/favicon-2.png')}}" type="image/x-icon">
 @section('header')
 @show
 </head>
