@@ -4,14 +4,13 @@
     <div class="row">
     <div class="col-lg-3 col-md-3 col-xs-6 col-mb-12">
     <div class="widget">
-    <div class="footer-logo"><img src="assets/img/logo.png" alt=""> <h4 class="text-color">College Au Pier</h4> </div>
+    <div class="footer-logo"><img src="{{ asset('front/assets/img/logo.png')}}" alt=""></div>
     <ul class="mt-3 footer-social">
-    <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
-    <li><a class="twitter" href="http://www.twitter.com/college_aupier"><i class="lni-twitter-filled"></i></a></li>
-    <li><a class="linkedin" href="https://www.linkedin.com/company/college-au-pier/"><i class="lni-linkedin-fill"></i></a></li>
-    <li><a class="instagram" href="https://instagram.com/collegeaupier.consulting?igshid=OGQ5ZDc2ODk2ZA=="><i class="lni-instagram"></i></a></li>
-    <li><a class="tiktok" href="www.tiktok.com/@collegeaupier.consulting"><i class="lni-tiktok"></i></a></li>
-    {{-- <li><a class="youtube" href="https://instagram.com/collegeaupier.consulting?igshid=OGQ5ZDc2ODk2ZA=="><i class="lni-instagram"></i></a></li> --}}
+    <li><a class="twitter" href="http://www.twitter.com/college_aupier"><i class="lni lni-twitter"></i></a></li>
+    <li><a class="linkedin" href="https://www.linkedin.com/company/college-au-pier/"><i class="lni lni-linkedin"></i></a></li>
+    <li><a class="instagram" href="https://instagram.com/collegeaupier.consulting?igshid=OGQ5ZDc2ODk2ZA=="><i class="lni lni-instagram"></i></a></li>
+    <li><a class="tiktok" href="https://www.tiktok.com/@collegeaupier.consulting"><i class="lni lni-tiktok"></i></a></li>
+    <li><a class="youtube" href="#"><i class="lni lni-youtube"></i></a></li>
 
     </ul>
     <div class="textwidget mt-4">

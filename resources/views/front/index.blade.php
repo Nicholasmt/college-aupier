@@ -28,7 +28,7 @@
 <div class="col-lg-6 col-md-6 col-xs-12 blog-item">
 <div class="blog-item-wrappe">
 <div class="blog-item-img">
-<a href="#"><img src="{{ asset('front/assets/img/services/img-2.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
+<a href="#"><img src="{{ asset('front/assets/img/services/img-2.jpeg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
 <div class="card mb-3 text-center">
 <h3>College Application</h3>
@@ -60,7 +60,7 @@
 <div class="col-lg-6 col-md-6 col-xs-12 blog-item">
 <div class="blog-item-wrappe mt-5">
 <div class="blog-item-img">
-<a href="#"><img src="{{ asset('front/assets/img/services/img-4.jpeg')}}" class="services-img" width="540" height="303" alt=""></a>
+<a href="#"><img src="{{ asset('front/assets/img/services/img-4.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
 <div class="card mb-3 text-center">
 <h4>College Drop Off/ Monitoring</h4>
@@ -90,7 +90,7 @@
   Of our students where accepted to one or more of their top three schools
 </h3>
  <p class="font-18 mt-2 text-white">
-   At Command Education, we strive to spark curiosity and genuine enthusiasm  towards <br> a constructive passion that will form the critical building block of our students’ futures.
+   At College Au Pier, we strive to spark curiosity and genuine enthusiasm  towards <br> a constructive passion that will form the critical building block of our students’ futures.
  </p>
 <a href="#" class="btn btn-common btn-lg mt-3">Learn More</a>
 </div>
@@ -99,23 +99,48 @@
 <div class="text-center">
 <div class="container">
 <p class="sub-hero" data-wow-delay=".6s"> 
-    “THANK YOU!!! THANK YOU!!!! THANK YOU!!!! I am so thrilled to have been accepted to all  of my reach schools. Thank you for your expertise and knowledge in helping me craft the perfect essay. I can’t begin to appreciate how grateful I am for your help.”
-    Daniel K., Harvard College
+  Selecting Ogochukwu and her team to help my son apply to the perfect college has been one of the best investment i have made. I want to pass on the good news that my son will be joining the university of Houston.
 </p>
 </div>
-<h5 class="text-white mt-3 font-italic"> Josh Rossi</h5>
+<h5 class="text-white mt-3 font-italic text-uppercase"> Parent of Kenechukwu N. <br> University of Houston</h5>
 </div>
 </div>
+
+<div class="carousel-item">
+<div class="text-center">
+<div class="container">
+<p class="sub-hero" data-wow-delay=".6s"> 
+ Ogochukwu and her team have provided my school with so much information and insight on how to better prepare our students for top universities globally. I can't thank her enough.
+</p>
 </div>
-{{-- <a class="carousel-control-prev" href="#main-slide" role="button" data-slide="prev">
-<span class="carousel-control" aria-hidden="true"><i class="lni-chevron-left" data-ripple-color="#F0F0F0"></i></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="carousel-control-next" href="#main-slide" role="button" data-slide="next">
-<span class="carousel-control" aria-hidden="true"><i class="lni-chevron-right" data-ripple-color="#F0F0F0"></i></span>
-<span class="sr-only">Next</span>
-</a> --}}
+<h5 class="text-white mt-3 font-italic text-uppercase"> MRS Chibuagbo O. <br> C.E.O Evergreen Schools Enugu</h5>
 </div>
+</div>
+
+<div class="carousel-item">
+<div class="text-center">
+<div class="container">
+<p class="sub-hero" data-wow-delay=".6s"> 
+ I have seen the scholarship package from the University of Toronto and the University of Michigan! Not sure which one we will pick yet but thank you so much!! You and your company truly made this possible.
+</p>
+</div>
+<h5 class="text-white mt-3 font-italic text-uppercase">Parent of Faridah A. <br> University of Toronto & University of Michigan </h5>
+</div>
+</div>
+
+<div class="carousel-item">
+<div class="text-center">
+<div class="container">
+<p class="sub-hero" data-wow-delay=".6s"> 
+Since my daughter started working with Ogochukwu, her whole midset has evolved, She pushes herself more and it is showing in her academics.I'm so grateful for this relationship.      
+</p>
+</div>
+<h5 class="text-white mt-3 font-italic text-uppercase"> Parent of SOMTO O. <br>  Lifeforte International High Schools. </h5>
+</div>
+</div>
+
+</div>
+ </div>
 </section>
 
 

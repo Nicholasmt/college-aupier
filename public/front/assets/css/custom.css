@@ -3,6 +3,11 @@
     background: #252525;
     color: aliceblue;
     font: 18px !important;
+    animation: step-end;
+}
+.overlay img{
+   mix-blend-mode: multiply !important;
+ 
 }
 .second-header-bg{
     background: #0a0a0a !important;
@@ -23,7 +28,7 @@
     color: #153039 !important;
 }
 .section-bg{
-  background: #616977 !important;
+  background: #607392 !important;
   padding: 10px; 
   color: white !important;
 }
@@ -149,7 +154,7 @@
         margin-left: -5% !important;
     }
     .vector_slider{
-        margin-top: -48%;
+        margin-top: -28%;
       }
       .vector_slider2{
         margin-top: -28%;
@@ -191,10 +196,10 @@
         margin-left: -5% !important;
     }
     .vector_slider{
-        margin-top: -45%;
+        margin-top: -17%;
      }
      .vector_slider2{
-        margin-top: -28%;
+        margin-top: -26%;
       }
       .logo-margin{
         margin-left: -5%;
@@ -213,7 +218,7 @@
         font-size: 22px !important;
     }
     .vector_slider{
-        margin-top: -43%;
+        margin-top: -26%;
      }
      .vector_slider2{
         margin-top: -28%;
@@ -257,6 +262,9 @@ font-size: 80px !important;
     font-size: 27px !important;
 }
 .vector_slider{
+    margin-top: -18%;
+  }
+  .vector_slider2{
     margin-top: -18%;
   }
    .logo-margin{
