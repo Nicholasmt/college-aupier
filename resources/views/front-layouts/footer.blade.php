@@ -25,15 +25,14 @@
     </div>
     <div class="col-lg-3 col-md-3 col-xs-6 col-mb-12">
     <div class="widget">
-    <h3 class="block-title ml-3 text-color">EDUCATION</h3>
+    <h3 class="block-title ml-3 text-color">Quick Links</h3>
     <ul class="about-footer ml-3">
     <li><a class="text-color" href="#">About Us</a></li>
-    <li><a class="text-color" href="#">Team</a></li>
     <li><a class="text-color" href="#">Testimonials</a></li>
-    <li><a class="text-color" href="#">Testimonials</a></li>
-    <li><a class="text-color" href="#">FAQ</a></li>
     <li><a class="text-color" href="#">Giving Back</a></li>
     <li><a class="text-color" href="#">Contact Us</a></li>
+    <li><a class="text-color" href="#">Team</a></li>
+    <li><a class="text-color" href="#">FAQ</a></li>
     </ul>
     </div>
 
@@ -42,11 +41,11 @@
     <div class="widget">
     <h3 class="block-title ml-3 text-color">SERVICES</h3>
     <ul class="about-footer">
-    <li><a class="text-color" href="#">College Consulting Services</a></li>
-    <li><a class="text-color" href="#">Premier Senior Package®</a></li>
-    <li><a class="text-color" href="#">Premier Roadmap Package®</a></li>
-    <li><a class="text-color" href="#">College Application Booster®</a></li>
-    <li><a class="text-color" href="#">Private Academic Tutoring</a></li>
+ 
+    <li><a class="text-color" href="#">Portfolio Building</a></li>
+    <li><a class="text-color" href="#">College Application</a></li>
+    <li><a class="text-color" href="#">Tutoring & Test Prep</a></li>
+    <li><a class="text-color" href="#">College Drop Off/ Monitoring</a></li>
     </ul>
     </div>
    </div>

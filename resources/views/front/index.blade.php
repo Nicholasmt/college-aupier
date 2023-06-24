@@ -198,7 +198,7 @@ Since my daughter started working with Ogochukwu, her whole midset has evolved, 
  
 <div class="form-group has-error">
 <label for="location">Where are you located?*</label>
-<input type="text" class="form-control" name="location" placeholder="Location">
+ @include('countries.selection')
 </div>
 
 <div class="form-group has-error">
@@ -220,6 +220,15 @@ Since my daughter started working with Ogochukwu, her whole midset has evolved, 
 <div class="form-group has-error">
 <label for="about">Tell us more about your student</label>
 <textarea name="about"  class="form-control" id="" cols="30" rows="5"></textarea>
+</div>
+
+<div class="form-group has-error">
+<label for="location">How can we help you?</label>
+<select name="help" class="form-control">
+<option disabled selected value="">Please Select</option>
+<option value="Immediately">List</option>
+<option value="Within the next 3 months">List</option>
+</select>
 </div>
 
 <div class="row">
@@ -263,6 +272,7 @@ Since my daughter started working with Ogochukwu, her whole midset has evolved, 
 
 
 {{-- companies slider --}}
+<h3 class="section-title text-uppercase">Schools Our Childrens Gained Admission To</h3>
 <section class="counter-section section-padding">
 <div id="main-slide" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner">

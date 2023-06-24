@@ -17,9 +17,7 @@
 <div id="preloader">
 <div class="loader" id="loader-1"></div>
 </div>
-
-<!-- scripts starts here -->
-{{-- <script data-cfasync="false" src="{{ asset('front/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js')}}"></script> --}}
+ 
 <script src="{{ asset('front/assets/js/jquery-min.js')}}"></script>
 <script src="{{ asset('front/assets/js/bootstrap.min.js')}}"></script>
 <script src="{{ asset('front/assets/js/waypoints.min.js')}}"></script>

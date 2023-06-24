@@ -107,8 +107,8 @@
 <div class="col-md-12 col-lg-12 col-xs-12">
 <h3 class="font-20 text-white">CONGRATULATIONS TO OUR CLASS OF 2027!</h3>
 <div class="row">
-<div class="col-md-12 col-lg-10 col-xs-12">
-<p class="text-white">Congratulations to our amazing Class of 2027 who have shattered records in 2023 with offers from all over the world!</p>
+<div class="col-md-12 col-lg-12 col-xs-12">
+<p class="text-white">$1.2M worth of scholarship and counting, Congratulations to our amazing class of 2027 who have shattered records in 2023 with offers from all over the world!</p>
 </div>
 <div class="col-md-12 col-lg-2 col-xs-12">
 {{-- <a href="#" class="btn btn-light">READ MORE</a> --}}
