@@ -3,7 +3,7 @@
  
 <div class="row justify-content-center ml-5 section-margin">
 <div class="col-lg-3 col-md-6 col-xs-6">
-<h3 class="text-white"> 709</h3>
+<h3 class="text-white"> 709+</h3>
 <p> Offers to UK universities</p>
 </div>
 <div class="col-lg-3 col-md-6 col-xs-6">
@@ -12,11 +12,11 @@
 </div>
 <div class="col-lg-3 col-md-6 col-xs-6">
 <h3 class="text-white"> 4,500+</h3>
-<p> Offers to Canadan universities</p>
+<p> Offers to Canada universities</p>
 </div>
 <div class="col-lg-3 col-md-6 col-xs-6">
-<h3 class="text-white">  233</h3>
-<p> Offers to Cambridge</p>
+<h3 class="text-white">  233+</h3>
+<p> Offers to Other universities</p>
 </div>
  
  

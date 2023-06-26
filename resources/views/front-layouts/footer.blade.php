@@ -25,7 +25,7 @@
     </div>
     <div class="col-lg-3 col-md-3 col-xs-6 col-mb-12">
     <div class="widget">
-    <h3 class="block-title ml-3 text-color">Quick Links</h3>
+    <h3 class="block-title text-color">Quick Links</h3>
     <ul class="about-footer ml-3">
     <li><a class="text-color" href="#">About Us</a></li>
     <li><a class="text-color" href="#">Testimonials</a></li>
@@ -39,7 +39,7 @@
     </div>
     <div class="col-lg-3 col-md-3 col-xs-6 col-mb-12">
     <div class="widget">
-    <h3 class="block-title ml-3 text-color">SERVICES</h3>
+    <h3 class="block-title  text-color">SERVICES</h3>
     <ul class="about-footer">
  
     <li><a class="text-color" href="#">Portfolio Building</a></li>
@@ -74,7 +74,7 @@
     <div class="col-md-12">
     <div class="site-info text-center">
     <p>All results will vary by individual and be affected by factors outside the control of AU PIER. and this website make no representation, promise, or guarantee that any particular result or outcome can or will be obtained. AU PIER is not associated with the College Board, Common Application, or any college/university or any of its affiliates. Prior results do not guarantee a similar outcome.</p>
-    <p class="mt-3 font-bold"> © Copyright {{date('Y')}} AU PIER All rights reserved. <a href="#" class="text-white">Terms and Conditions.</a></p>
+    <p class="mt-3 font-bold"> © Copyright {{date('Y')}} College Au PIER All rights reserved. <a href="#" class="text-white">Terms and Conditions.</a></p>
     </div>
     </div>
     </div>

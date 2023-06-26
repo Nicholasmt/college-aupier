@@ -32,7 +32,7 @@
 </div>
 <div class="card mb-3 text-center">
 <h3>College Application</h3>
-<p class="services-sub-header mb-5">12th Grade</p>
+<p class="services-sub-header mb-4">12th Grade</p>
 <p class="services-content mb-3">Through our unique approach, students build a bullet proof college list, a solid resume, work on their extracurricular activities list and develop compelling essays.</p>
 </div>
 <div class="text-center services_button">
@@ -271,8 +271,8 @@ Since my daughter started working with Ogochukwu, her whole midset has evolved, 
 {{-- Why us Ends--}}
 
 
-{{-- companies slider --}}
-<h3 class="section-title text-uppercase">Schools Our Childrens Gained Admission To</h3>
+{{-- schools slider --}}
+<h3 class="section-title text-uppercase">Schools Our Students Gained Admission To</h3>
 <section class="counter-section section-padding">
 <div id="main-slide" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner">
@@ -347,6 +347,6 @@ Since my daughter started working with Ogochukwu, her whole midset has evolved, 
 </div>
 
 </section>
-{{-- companies slider Ends --}}
+{{-- schools slider Ends --}}
  
 @endsection
