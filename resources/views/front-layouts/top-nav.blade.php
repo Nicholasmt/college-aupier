@@ -9,7 +9,7 @@
     </button>
     {{-- <h4 class="navbar-brand mr-5">AU PIER</h4> --}}
     <a href="#" class="navbar-brand logo-margin">
-      <img src="{{ asset('front/assets/img/logo.png')}}"  alt="logo">
+      <img src="{{ asset('front/assets/img/logo.png')}}" alt="logo">
     </a>
     </div>
     <div class="collapse navbar-collapse nav-margin" id="main-navbar">

@@ -1,6 +1,6 @@
 
-<select class="form-control" id="country" name="country">
-<option>select country</option>
+<select wire:model="country" id="country" class="form-control">
+<option value="">select country</option>
 <option value="AF">Afghanistan</option>
 <option value="AX">Aland Islands</option>
 <option value="AL">Albania</option>

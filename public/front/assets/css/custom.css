@@ -278,7 +278,7 @@ to {
 @media (min-width: 1200px) {
 .section-title_custom {
 font-size: 35px;
-font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .hero-area-sub-title{
   font-weight: 400 !important;
@@ -300,7 +300,7 @@ font-family: 'Montserrat', sans-serif;
     margin-top: -18%;
   }
    .logo-margin{
-     margin-left: -45%;
+     margin-left: -35%;
  }
  .nav-margin{
     margin-left: -14%;
