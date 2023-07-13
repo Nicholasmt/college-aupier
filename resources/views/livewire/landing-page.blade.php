@@ -295,9 +295,9 @@ We are committed to using our skills and experience to make a difference .</p>
 <section class="section-padding">
 <h3 class="section-title text-uppercase">Schools Our Students received Offers</h3>
 <div class="counter-section">
-<div class="container h-100">
+<div class="slider_container h-100">
 <div class="row align-items-center h-100">
-<div class="container rounded">
+<div class="slider_container rounded">
 <div class="slider">
 <div class="logos">
     <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-1.png')}}" alt="">

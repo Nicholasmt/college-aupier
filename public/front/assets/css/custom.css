@@ -12,7 +12,7 @@
   
 
 /* logo slider inifinte */
-.container {
+.slider_container {
     overflow: hidden;
   }
 .slider-logos{
@@ -258,10 +258,7 @@ to {
     }
 }
 @media (min-width: 992px) and (max-width: 1199.98px) { 
-    .top-nav{
-        margin-left: -9%;
-        }
-        .second-header-bg{
+      .second-header-bg{
             width: 70%;
             margin-top: -4%;
             font-size: 50px !important;

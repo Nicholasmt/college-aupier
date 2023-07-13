@@ -7,7 +7,6 @@
     <span class="lni-menu"></span>
     <span class="lni-menu"></span>
     </button>
-    {{-- <h4 class="navbar-brand mr-5">AU PIER</h4> --}}
     <a href="#" class="navbar-brand logo-margin">
       <img src="{{ asset('front/assets/img/logo.png')}}" alt="logo">
     </a>
@@ -31,7 +30,7 @@
     </div>
     </li>
 
-    <li class="nav-item dropdown ml-"> 
+    <li class="nav-item dropdown"> 
     <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> RESOURCES <span class="lni-chevron-down"></span></a>
     <div class="dropdown-menu">
     <a class="dropdown-item" href="#">list 1</a>
@@ -41,13 +40,13 @@
         
  
     <li class="nav-item">
-    <a class="nav-link " href="#">Our Blog </a>
+    <a class="nav-link" href="#">Our Blog </a>
     </li>
    <li class="nav-item">
-     <p class="nav-link lni-phone"> +2348135732627</p>
+     <p class="nav-link lni lni-phone"> +2348135732627</p>
     </li>
     <li class="nav-item">
-      <p class="nav-link text-lowercase lni-envelope"> collegeaupier@gmail.com</p>
+      <p class="nav-link text-lowercase lni lni-envelope"> collegeaupier@gmail.com</p>
     </li>
     
   
@@ -62,13 +61,7 @@
 
   <ul class="mobile-menu">
       
-    {{-- <li class=""><a href="#">Dashboard</a></li> 
-     
-    <li class=""><a href="#">Dashboard</a></li> --}}
-  
-    {{-- <li class=""><a href="#">Login</a></li>  --}}
-  
-    <li>
+  <li>
     <a href="#">MENU</a>
     <ul class="dropdown">
     <li>
@@ -111,7 +104,6 @@
 <p class="text-white">$1.2M worth of scholarship and counting, Congratulations to our amazing class of 2027 who have shattered records in 2023 with offers from all over the world!</p>
 </div>
 <div class="col-md-12 col-lg-2 col-xs-12">
-{{-- <a href="#" class="btn btn-light">READ MORE</a> --}}
 </div>
 </div>
 </div>
