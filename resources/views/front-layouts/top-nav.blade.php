@@ -54,7 +54,7 @@
 
    </ul>
    <div class="ml-5">
-    <a class="btn btn-common" href="#"> GET STARTED</a>
+    <a class="btn btn-common" href="#"> Get started</a>
    </div>
   </div>
   </div>
@@ -91,24 +91,22 @@
     </ul>
     </li>
     <div class="mt-3 mb-3">
-    <a class="btn btn-common text-white" href="#"> GET STARTED</a>
+    <a class="btn btn-common text-white" href="#"> Get started</a>
     </div>
     </ul>
  </nav>
-<div class="header2">
-<div class="container">
-<div class="col-md-12 col-lg-12 col-xs-12">
-<h3 class="font-20 text-white">CONGRATULATIONS TO OUR CLASS OF 2027!</h3>
-<div class="row">
-<div class="col-md-12 col-lg-12 col-xs-12">
-<p class="text-white">$1.2M worth of scholarship and counting, Congratulations to our amazing class of 2027 who have shattered records in 2023 with offers from all over the world!</p>
-</div>
-<div class="col-md-12 col-lg-2 col-xs-12">
-</div>
-</div>
-</div>
-</div>
-</div>
+ <div class="header2">
+  <div class="container">
+  <div class="col-md-12 col-lg-12 col-xs-12">
+  <h3 class="font-20 text-white">CONGRATULATIONS TO OUR CLASS OF 2027!</h3>
+  <div class="row">
+  <div class="col-md-12 col-lg-12 col-xs-12">
+  <p class="font-15 text-white">$1.2M worth of scholarship and counting, Congratulations to our amazing class of 2027 who have shattered records in 2023 with offers from all over the world!</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
     
     
      

@@ -25,7 +25,7 @@
 <div class="col-lg-6 col-md-6 col-xs-12 blog-item">
 <div class="blog-item-wrappe">
 <div class="blog-item-img">
-<a href="#"><img src="{{ asset('front/assets/img/services/img-2.jpeg')}}" class="services-img" width="540" height="303" alt=""></a>
+<a href="#"><img src="{{ asset('front/assets/img/services/img-2.jpg')}}" class="services-img" width="540" height="303" alt=""></a>
 </div>
 <div class="card mb-3 text-center">
 <h3>College Application</h3>

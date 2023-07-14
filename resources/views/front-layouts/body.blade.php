@@ -2,8 +2,9 @@
 @section('body')
 <header id="header-wrap" style="margin-top:%">
 @include('front-layouts.top-nav')
-@include('front-layouts.slider')
 </header>
+
+@include('front-layouts.slider2')
 
 @include('front-layouts.sections')
  
