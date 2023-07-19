@@ -78,7 +78,14 @@
 {{-- Testimonial Starts--}}
 <section class="testimonial section-padding">
 <h3 class="section-title">TESTIMONIALS</h3>
-<div id="main-slide" class="carousel slide bg-auto" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide bg-auto" data-ride="carousel">
+<ol class="carousel-indicators">
+<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+<li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+</ol>
 <div class="carousel-inner">
 <div class="carousel-item active">
 <div class="text-center">
@@ -87,22 +94,21 @@
 Of our students where accepted to one or more of their top three schools
 </h3>
 <p class="font-18 mt-2 text-white">
-At College Au Pier, we strive to spark curiosity and genuine enthusiasm  towards <br> a constructive passion that will form the critical building block of our students’ futures.
+At College Au Pier, we strive to spark curiosity and genuine enthusiasm  towards <br> a constructive passion that will form the critical building block of our students’ futures. <br>
+<a href="#" class="btn btn-secondary btn-lg mt-3">Learn More</a>
 </p>
-<a href="#" class="btn btn-common btn-lg mt-3">Learn More</a>
 </div>
 </div>
 <div class="carousel-item">
 <div class="text-center">
 <div class="container">
 <p class="sub-hero" data-wow-delay=".6s"> 
-Selecting Ogochukwu and her team to help my son apply to the perfect college has been one of the best investment i have made. I want to pass on the good news that my son will be joining the university of Houston.
+Selecting Ogochukwu and her team to help my son apply to the perfect college has been one of the best investment i have made. I want to pass on the good news that my son will be joining the university of Houston. <br>
 </p>
 </div>
-<h5 class="text-white mt-3 font-italic text-uppercase"> Parent of Kenechukwu N. <br> University of Houston</h5>
+<p class="sub-hero text-white mt-3 text-capitalize"> Parent of Kenechukwu N. <br> University of Houston</p>
 </div>
 </div>
-
 <div class="carousel-item">
 <div class="text-center">
 <div class="container">
@@ -110,10 +116,9 @@ Selecting Ogochukwu and her team to help my son apply to the perfect college has
 Ogochukwu and her team have provided my school with so much information and insight on how to better prepare our students for top universities globally. I can't thank her enough.
 </p>
 </div>
-<h5 class="text-white mt-3 font-italic text-uppercase"> MRS Chibuagbo O. <br> C.E.O Evergreen Schools Enugu</h5>
+<h5 class="sub-hero text-white mt-3 text-capitalize"> MRS Chibuagbo O. <br> C.E.O Evergreen Schools Enugu</h5>
 </div>
 </div>
-
 <div class="carousel-item">
 <div class="text-center">
 <div class="container">
@@ -121,10 +126,9 @@ Ogochukwu and her team have provided my school with so much information and insi
 I have seen the scholarship package from the University of Toronto and the University of Michigan! Not sure which one we will pick yet but thank you so much!! You and your company truly made this possible.
 </p>
 </div>
-<h5 class="text-white mt-3 font-italic text-uppercase">Parent of Faridah A. <br> University of Toronto & University of Michigan </h5>
+<h5 class="sub-hero text-white mt-3 text-capitalize">Parent of Faridah A. <br> University of Toronto & University of Michigan </h5>
 </div>
 </div>
-
 <div class="carousel-item">
 <div class="text-center">
 <div class="container">
@@ -132,16 +136,12 @@ I have seen the scholarship package from the University of Toronto and the Unive
 Since my daughter started working with Ogochukwu, her whole midset has evolved, She pushes herself more and it is showing in her academics.I'm so grateful for this relationship.      
 </p>
 </div>
-<h5 class="text-white mt-3 font-italic text-uppercase"> Parent of SOMTO O. <br>  Lifeforte International High Schools. </h5>
+<h5 class="sub-hero text-white mt-3 text-capitalize"> Parent of SOMTO O. <br>  Lifeforte International High Schools. </h5>
 </div>
 </div>
-
 </div>
 </div>
 </section>
-
-
-
 {{-- Testimonial Ends--}}
 
 {{-- Why us Start--}}
@@ -291,45 +291,81 @@ We are committed to using our skills and experience to make a difference .</p>
 {{-- Why us Ends--}}
 
 
-{{-- schools slider --}}
+{{-- admission offers slider --}}
 <section class="section-padding">
-<h3 class="section-title text-uppercase">Schools Our Students received Offers</h3>
-<div class="counter-section">
-<div class="slider_container h-100">
-<div class="row align-items-center h-100">
-<div class="slider_container rounded">
-<div class="slider">
-<div class="logos">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-1.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-2.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-3.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-4.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-5.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-6.png')}}" alt="">
-
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-6.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-2.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-1.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-5.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-4.png')}}" alt="">
-    <img class="ml-2 slider-logos" src="{{ asset('front/assets/img/companies/img-3.png')}}" alt="">
-</div>
-{{-- <div class="logos">
-    <img class=" slider-logos" src="{{ asset('front/assets/img/companies/img-6.png')}}" alt="">
-    <img class=" slider-logos" src="{{ asset('front/assets/img/companies/img-2.png')}}" alt="">
-    <img class=" slider-logos" src="{{ asset('front/assets/img/companies/img-1.png')}}" alt="">
-    <img class=" slider-logos" src="{{ asset('front/assets/img/companies/img-5.png')}}" alt="">
-    <img class=" slider-logos" src="{{ asset('front/assets/img/companies/img-4.png')}}" alt="">
-    <img class=" slider-logos" src="{{ asset('front/assets/img/companies/img-3.png')}}" alt="">
-</div> --}}
-</div>
-</div>
-</div>
-</div>
-</div>
+<h3 class="section-title text-uppercase">Our Admission Offers</h3>
+<div class="featured">
+<p class="card-body text-center text-white hero-sub-heading">Our students have received offers to the world’s best universities!</p>
+  
+ 
+<div class="slider2 mt-2">
+    <div class="slide-track2">
+      <div class="slide2" style="margin-left:0px">
+        <div class="block-slide">
+        <img src="{{ asset('front/assets//img/schools/img-2.png')}}" height="100" width="100" alt=""> <br>
+        <p class="text-capitalize">university of cambridge</p>
+        <p>23</p>
+        </div>
+      </div>
+      <div class="slide2">
+        <div class="block-slide">
+            <img src="{{ asset('front/assets//img/schools/img-3.png')}}" height="100" width="100" alt="">
+            <p class="text-capitalize">cornell university</p>
+            <p>0</p>
+        </div>
+    </div>
+    <div class="slide2">
+        <div class="block-slide">
+            <img src="{{ asset('front/assets//img/schools/img-4.png')}}" height="100" width="100" alt="">
+            <p class="text-capitalize">columbia university</p>
+            <p>10</p>
+       </div>
+     </div>
+     <div class="slide2">
+        <div class="">
+            <img src="{{ asset('front/assets//img/schools/img-6.png')}}" height="100" width="100" alt="">
+            <p class="text-capitalize">university of oxford</p>
+            <p>30</p>   
+        </div>
+     </div>
+     
+  
+      <!-- repeat -->
+  
+      <div class="slide2" style="margin-left:0px">
+        <div class=""block-slide>
+            <img src="{{ asset('front/assets//img/schools/img-2.png')}}" height="100" width="100" alt="">
+            <p class="text-capitalize">university of cambridge</p>
+            <p>23</p>
+       </div>
+      </div>
+      <div class="slide2">
+        <div class="block-slide">
+            <img src="{{ asset('front/assets//img/schools/img-3.png')}}" height="100" width="100" alt="">
+            <p class="text-capitalize">cornell university</p>
+            <p>0</p>
+       </div>
+     </div>
+     <div class="slide2">
+        <div class="block-slide">
+            <img src="{{ asset('front/assets//img/schools/img-4.png')}}" height="100" width="100" alt="">
+            <p class="text-capitalize">columbia university</p>
+            <p>10</p>
+       </div>
+     </div>
+     <div class="slide2">
+        <div class="block-slide">
+            <img src="{{ asset('front/assets//img/schools/img-6.png')}}" height="100" width="100" alt="">
+            <p class="text-capitalize">university of oxford</p>
+            <p>30</p>
+       </div>
+     </div>  
 </section>
-{{-- schools slider Ends --}}
 </div>
+{{-- admission offers Ends --}}
+
+
+
 @push('scripts')
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 <script>
@@ -350,6 +386,5 @@ We are committed to using our skills and experience to make a difference .</p>
           });
 
       });
-
 </script>
 @endpush

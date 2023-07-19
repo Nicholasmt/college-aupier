@@ -1,7 +1,9 @@
+
+
 .consult-bg
 { 
-    background: #252525;
-    color: aliceblue;
+    background: #0a0a0a;
+    color: rgb(240, 248, 255);
     font: 18px !important;
     animation: step-end;
 }
@@ -9,51 +11,12 @@
     background: #0a0a0a !important;
     color:#8099c1 !important;
 }
-
-
-/* logo slider inifinte */
-.slider_container {
-    overflow: hidden;
-  }
-.slider-logos{
-    width: calc(100% / 5);
-    animation: fade-in 0.5s 
-      cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
-  }
-  .logos {
-    width: 100%;
-    display: inline-block;
-    margin: 30px 0px
-  }
-  .slider
-  {
-    animation: slidein 30s linear infinite;
-    white-space: nowrap;
- }
-  
-@keyframes slidein {
-from {
-    transform: translate3d(0, 0, 0);
+.featured{
+    background: #647797;
+    padding: 40px;
 }
-to {
-    transform: translate3d(-100%, 0, 0);
-}
-}
-  
-@keyframes fade-in {
-0% {
-    opacity: 0;
-}
-100% {
-    opacity: 1;
-}
-}
-/* logo slider inifinte */
-
-
-
 .base-color{
-    color:#8099c1 !important;
+    color:white !important;
 }
 .second-color{
     color:#153039 !important;
@@ -66,7 +29,7 @@ to {
   text-align: center;
 }
 .bg-auto{
-   background: #252525;
+   background: #647797;
    padding:10%;  
 }
 .btn-default{
@@ -76,6 +39,7 @@ to {
     font-size: 18px;
     font-weight: 400;
     color: aliceblue;
+    line-height: 30px;
 }
 .font-18{
     font-size: 18px !important;
@@ -196,13 +160,10 @@ to {
     .vector_slider{
         margin-top: -11%;
       }
-      
-      .logo-margin{
-        margin-top: -0%;
-       }
        .logo-margin{
         margin-left: -5%;
-        margin-top: -3%;
+        margin-top: -4%;
+        
     }
  }
 @media (min-width: 565px) and (max-width: 767.98px) { 
@@ -336,8 +297,8 @@ to {
 }
 @media (min-width: 1200px) {
     .section-title_custom {
-    font-size: 35px;
-    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
     }
     .hero-area-sub-title{
     font-weight: 400 !important;
@@ -378,7 +339,7 @@ to {
         margin-top: 2%;
     }
     .btn{
-        padding: 5px 18px !important;
+        padding: 7px 18px !important;
         font-size: 15px;
       }
 }
